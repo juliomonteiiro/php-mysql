@@ -48,4 +48,4 @@ Antes de começar, é recomendável que você tenha conhecimento básico de:
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone https://github.com/SEU-USUARIO/php-para-web.git
+   https://github.com/juliomonteiiro/php-mysql.git
